@@ -4,9 +4,6 @@
 Linux How To Truncate A File
 It is easy to truncate a file from the command line on Linux
 
-You can echo an empty string to the file that you want to truncate like this.
-
-
 # >echo > test.log
 You can also just use the redirection operator by itself like this.
 
